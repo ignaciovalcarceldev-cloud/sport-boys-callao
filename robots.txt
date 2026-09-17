@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ignaciovalcarceldev-cloud.github.io/sport-boys-callao/sitemap.xml
